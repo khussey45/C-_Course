@@ -5,24 +5,77 @@
 int main()
 {
    
-    double a;
-    double b; 
-    double c; 
-
-    std::cout << "Enter side A: ";
-    std::cin >> a;
-
-    std::cout << "Enter side B: ";
-    std::cin >> b;
 
     
-    c = sqrt(pow(a, 2) + pow(b, 2));
-
-    std::cout << "side C: " << c;
    
     return 0;
 }
 
+
+
+ // // CALCULATOR PROGRAM
+
+    // char op;
+    // double num1;
+    // double num2;
+    // double result;
+
+    // std::cout << "************* CALCULATOR ************* \n";
+
+    // std::cout << "Enter an operator (+, -, *, /): " ;
+    // std::cin >> op;
+
+    // std::cout << "Enter #1: ";
+    // std::cin >> num1;
+
+    // std::cout << "Enter #2: ";
+    // std::cin >> num2;
+
+    // switch (op)
+    // {
+    // case '+':
+    //     result = num1 + num2;
+    //     std::cout << "Result: " << result << '\n';
+    //     break;
+    // case '-':
+    //     result = num1 - num2;
+    //     std::cout << "Result: " << result << '\n';
+    //     break;
+    // case '*':
+    //     result = num1 * num2;
+    //     std::cout << "Result: " << result << '\n';
+    //     break;
+    // case '/':
+    //     result = num1 / num2;
+    //     std::cout << "Result: " << result << '\n';
+    //     break;
+    
+    // default:
+    //     std::cout << "Enter a valid operator";
+    //     break;
+    // }
+
+
+
+
+
+
+
+
+// double a;
+    // double b; 
+    // double c; 
+
+    // std::cout << "Enter side A: ";
+    // std::cin >> a;
+
+    // std::cout << "Enter side B: ";
+    // std::cin >> b;
+
+    
+    // c = sqrt(pow(a, 2) + pow(b, 2));
+
+    // std::cout << "side C: " << c;
 
  // double x = 3.2;
     // double y = 4;
